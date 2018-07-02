@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+              <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -69,11 +69,6 @@
             <path>
               <item name="wangyawei9999.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="wangyawei9999.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wangyawei9999.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wangyawei9999.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530538749229</updated>
-      <workItem from="1530538751475" duration="42000" />
+      <workItem from="1530538751475" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42000" />
+    <option name="totallyTimeSpent" value="213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -248,10 +243,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
       </provider>
